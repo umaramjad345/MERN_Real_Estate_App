@@ -3,7 +3,7 @@ Welcome to the Real Estate Management System repository! This system is designed
 
 <br/>
 
-Features
+Features <br>
 Property Management: Easily add, update, and remove property listings including details such as address, price, number of bedrooms/bathrooms, and more.
 Client Management: Keep track of client information including contact details, preferences, and previous interactions.
 Transaction Management: Record and monitor property transactions, including sales, rentals, and leases.
